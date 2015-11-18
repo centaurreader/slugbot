@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userService"
+			],
+			[
+				"us",
+				"usersService"
+			],
+			[
+				"ge",
+				"getUsernameById"
+			],
+			[
+				"slack",
+				"slackEvent"
+			],
+			[
+				"slackEve",
+				"slackEventMeetsCriteria"
+			],
+			[
+				"web",
+				"webSocketClient"
+			],
+			[
+				"Web",
+				"WebSocketClient"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"Gete",
+				"getElementById"
+			],
+			[
+				"get",
+				"getElementsByName"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"la",
+				"last-of-type"
+			],
+			[
+				"lists",
+				"listsFromStorage"
+			],
+			[
+				"tex-",
+				"text-align"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/src/listeners/callSynthdustSlug.js",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/src/app.js",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/src/listeners/listenForSlug.js",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/src/api/websockets.js",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/src/api/getList.js",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/src/listenForSlug.js",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/package.json",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/src/websockets.js",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/src/postMessage.js",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/src/auth.js",
+		"/C/Users/Paul Browning/Desktop/my projects/slugbot/app.js",
+		"/C/Users/Paul Browning/Desktop/list/src/index-old.html",
+		"/C/Users/Paul Browning/Desktop/centaurreader/src/site.js",
+		"/E/Dropbox/colin's site 2015/site/src/index.html",
+		"/E/Dropbox/colin's site 2015/site/src/css/shows/shows.css",
+		"/E/Dropbox/colin's site 2015/site/src/css/bandcamp-banner/bandcamp-banner.css",
+		"/E/Dropbox/colin's site 2015/site/src/css/style.css",
+		"/E/Dropbox/colin's site 2015/site/src/css/townie-promo/townie-promo.css",
+		"/C/Users/sara/Dropbox/colin's site 2015/site/src/js/navbar.js",
+		"/E/Dropbox/colin's site 2015/site/src/css/contact-info/contact-info.css",
+		"/E/Dropbox/colin's site 2015/site/src/css/navbar/navbar.css",
+		"/E/Dropbox/colin's site 2015/site/gulpfile.js",
+		"/E/Dropbox/colin's site 2015/site/dist/js/app.js",
+		"/E/Dropbox/colin's site 2015/site/dist/css/style.css",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/contact_me.php",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/src/contact.html",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/src/app.js",
+		"/C/Users/Paul Browning/AppData/Local/Temp/fz3temp-1/1398024783.V811I30087ba84M374947.brunswick",
+		"/C/Users/Paul Browning/AppData/Local/Temp/fz3temp-1/1438656889.V811I3070fe527M843749.brunswick",
+		"/C/Users/Paul Browning/AppData/Local/Temp/fz3temp-1/1438656931.V811I30024abb4M987164.brunswick",
+		"/E/Artchive/Design, Illustration & Such/Browning Co/browning co single page site v1.0/index.html",
+		"/E/Dropbox/colin's site 2015/site/dist/index.html",
+		"/E/Dropbox/colin's site 2015/site/src/js/navbar.js",
+		"/E/Dropbox/colin's site 2015/site/src/css/contact-form/contact-form.css",
+		"/E/Dropbox/colin's site 2015/site/src/css/footer/footer.css",
+		"/E/Dropbox/colin's site 2015/site/src/js/contact-form.js",
+		"/E/Dropbox/colin's site 2015/site/src/server/contact_me.php",
+		"/E/Dropbox/colin's site 2015/site/annotation.txt",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/gulpfile.js",
+		"/E/Dropbox/colin's site 2015/site/dist/spritesheet/sprite.css",
+		"/C/Users/Paul Browning/Desktop/splore-ecma6/gulpfile.js",
+		"/C/Users/sara/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/sara/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/Dropbox/colin's site 2015/site/package.json",
+		"/C/Users/Paul Browning/Desktop/colin's site 2015/site/.gitignore",
+		"/C/Users/Paul Browning/Desktop/colin's site 2015/site/roseline",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/dist/ko test/main-built.js",
+		"/C/Users/Paul Browning/Desktop/ko test/someModule/module.html",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/dist/index.html",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/src/products.html",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/src/css/style.css",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/src/index.html",
+		"/C/Users/Paul Browning/Desktop/bco info.txt",
+		"/E/Documents/Updater/words.txt",
+		"/C/Users/Paul Browning/Desktop/collin mckelvey - first accents of a rustic flute/info.txt",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/src/favicons/manifest.json",
+		"/E/Artchive/Stock Images & Templates/tape stuff/info.txt",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/dist/style.css",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/products.html",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/index.html",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/contact.html",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/style.css",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/app.js",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/dist/app.js",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/package.json",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/header test/style.css",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/header test/index.html",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/bco.sublime-project",
+		"/C/Users/Paul Browning/Desktop/list/list.html",
+		"/C/Users/Paul Browning/Desktop/list/list.css",
+		"/E/Dropbox/Public/darkme.txt",
+		"/C/Users/Paul Browning/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/Downloads/Web Downloads/list/list.html",
+		"/C/Users/Paul Browning/Desktop/list/lisztomania.html",
+		"/C/Users/Paul Browning/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Paul Browning/Desktop/style.css",
+		"/C/Users/Paul Browning/Desktop/browning co web spring 2015/bco.html",
+		"/C/Users/Paul Browning/Desktop/New folder/blah.html",
+		"/C/Users/Paul Browning/Desktop/New folder/Ability-Feb9-Adam-Sandler-7.jpg",
+		"/C/Users/Paul Browning/Desktop/New folder/Adam+Sandler+Adam+Sandler+Films+Cobbler+Part+9AUuSqtVDxzl.jpg",
+		"/C/Users/Paul Browning/Desktop/New folder/adam-sandler-family-park-playdate-4-960x1320.jpg",
+		"/C/Users/Paul Browning/Desktop/New folder/adam-sandler.jpg",
+		"/C/Users/Paul Browning/Desktop/New folder/adam-sandler-pizza-with-sadie-07.jpg",
+		"/C/Users/Paul Browning/Desktop/New folder/article-0-1B8FCB27000005DC-714_634x743.jpg",
+		"/C/Users/Paul Browning/Desktop/New folder/article-0-1B8FCB43000005DC-813_634x615.jpg",
+		"/C/Users/Paul Browning/Desktop/New folder/download.jpg",
+		"/C/Users/Paul Browning/Desktop/New folder/mr_fp_164786wtmk.jpg",
+		"/E/Dev/darkMe/readme.md"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user",
+			"url",
+			"'",
+			"&",
+			"wrap",
+			"flatten",
+			"wrap",
+			"2px",
+			"the roseline",
+			"'",
+			"params.job",
+			".feature",
+			"feature",
+			".social",
+			"max-width: 1024px",
+			"active",
+			"background",
+			"font-size",
+			"button",
+			"@media",
+			"linked",
+			"\"<",
+			"h1",
+			"h2",
+			"boardgamegeek",
+			"github",
+			"open"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"\\n&",
+			"\"",
+			"&rdquo;<",
+			"&rdquo;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"produ",
+				"dist\\products.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
