@@ -8,10 +8,7 @@ function containsSlug(text) {
   if (text === undefined) {
     return;
   }
-  return new RegExp(/slug/g).test(text.toLowerCase());
-}
-function isBot(username) {
-  return username === "slugbot";
+  return new RegExp(/slug\b/g).test(text.toLowerCase());
 }
 
 function slackEventMeetsCriteria(slackEvent) {
@@ -21,7 +18,7 @@ function slackEventMeetsCriteria(slackEvent) {
   if (!containsSlug(slackEvent.text)) {
     return false;
   }
-  if (isBot(slackEvent.username)) {
+  if (slackEvent.isBot) {
     return false;
   }
   return true;
