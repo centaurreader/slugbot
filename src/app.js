@@ -3,7 +3,8 @@ var webSocketClient = require("./api/websockets.js"),
 
 var listeners = [
     require("./listeners/listenForSlug.js"),
-    require("./listeners/callSynthdustSlug.js")
+    require("./listeners/callSynthdustSlug.js"),
+    require("./listeners/listenForSlugbot.js")
 ];
 
 var ascii = "";
