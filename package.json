@@ -12,7 +12,6 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "websocket": "^1.0.22",
     "ws": "^0.8.0"
   }
 }
