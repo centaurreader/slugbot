@@ -6,14 +6,14 @@ var listeners = [
     require("./listeners/callSynthdustSlug.js")
 ];
 
-auth(function (response) {
-    webSocketClient.start(response.url, listeners);
-});
-
-
 var ascii = "";
 ascii +="   _         _      \r\n";
 ascii +="  /_`/   _  /_)_ _/_\r\n";
 ascii +=" ._///_//_//_)/_//  \r\n";
 ascii +="        _/          \r\n";
 console.log(ascii);
+
+auth(function (response) {
+    webSocketClient.start(response.url, listeners);
+});
+
