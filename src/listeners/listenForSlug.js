@@ -6,16 +6,22 @@ function isMessage(type) {
 }
 function containsSlug(text) {
   if (text === undefined) {
-    return;
+    return false;
   }
-  return new RegExp(/slug\b/g).test(text.toLowerCase());
+  return new RegExp(/(slug)\b/i).test(text);
+}
+function containsSlugs(text) {
+  if (text === undefined) {
+    return false;
+  }
+  return new RegExp(/(slugs)\b/i).test(text); 
 }
 
 function slackEventMeetsCriteria(slackEvent) {
   if (!isMessage(slackEvent.type)) {
     return false;
   }
-  if (!containsSlug(slackEvent.text)) {
+  if (!containsSlug(slackEvent.text) && !containsSlugs(slackEvent.text)) {
     return false;
   }
   if (slackEvent.isBot) {
