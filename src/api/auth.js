@@ -12,7 +12,7 @@ function handleResponse(response, callback) {
 }
 
 function makeRequest (callback) {
-  https.get("https://slack.com/api/rtm.start?token=xoxb-14088744656-tLcOxRV79qOi7A3a2gx7GZyN",
+  https.get("https://slack.com/api/rtm.start?token=[token]",
     function(response) {
       handleResponse(response, callback);
     }
